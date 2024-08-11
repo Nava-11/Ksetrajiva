@@ -14,4 +14,4 @@ Use Case:
 
 •	Get the alert if any animal or human being enters into agri land
 
-•	Create no harm to animal to protect crops. 
+•	Create no harm to animal to protect crops.  
